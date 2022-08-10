@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 I'm loheagn (pronounced `/'ləʊn/`).
+- :school: I'm a software engineering student at Beihang University.
+- :star: My favourite languages are Kotlin and Go, and I'm learning Rust...
+- :cloud: I'm interested in Cloud Native, and looking for open source projects to contribute :eyes:.
+- I enjoy cycling :biking_man: and swimming :swimming_man: in my free time.
+- :book: I am very interested in history, especially ancient history.
+- 📫 Welcome to contact me: loheagn@icloud.com.
